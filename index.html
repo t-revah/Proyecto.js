@@ -6,12 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-
 <body>
     <h1> Filtro Boca Jrs. </h1>
     <h1>Elegir Torneo</h1>
-    <button onclick="elegirTorneo('LIGA')">LIGA</button>
-    <button onclick="elegirTorneo('COPA')">COPA</button>
+   
     <p>Para asistir a un partido de Liga deberás haber asistido a los 3 partidos anteriores. Si no asististe a alguno de esos 3, no pasas el filtro.</p>
 
     <h2>Cargar Partidos</h2>
@@ -34,10 +32,16 @@
     <div id="datosCargados">
         <h2>Datos cargados:</h2>
     </div>
+    <div id="todosLosPartidos">
+        <h2>Todos los partidos:</h2>
+    </div>
     <div id="partidosAsistidos">
         <h2>Partidos asistidos:</h2>
     </div>
     <div id="autorizacion"></div>
+
+    <!-- Agrega un botón para reiniciar los datos -->
+    <button onclick="reiniciarDatos()">Reiniciar Datos</button>
 
     <script src="./javascript.js"></script>
 </body>

@@ -1,0 +1,105 @@
+[
+  {
+    "torneo": "LIGA",
+    "fecha": 1,
+    "resultado": "3-1",
+    "asistencia": "no"
+  },
+  {
+    "torneo": "LIGA",
+    "fecha": 2,
+    "resultado": "2-2",
+    "asistencia": "si"
+  },
+  {
+    "torneo": "LIGA",
+    "fecha": 3,
+    "resultado": "1-0",
+    "asistencia": "no"
+  },
+
+  {
+    "torneo": "LIGA",
+    "fecha": 3,
+    "resultado": "1-0",
+    "asistencia": "si"
+  },
+
+  {
+    "torneo": "LIGA",
+    "fecha": 4,
+    "resultado": "1-0",
+    "asistencia": "si"
+  },
+  {
+    "torneo": "LIGA",
+    "fecha": 5,
+    "resultado": "1-0",
+    "asistencia": "si"
+  },
+
+  {
+    "torneo": "LIGA",
+    "fecha": 6,
+    "resultado": "1-0",
+    "asistencia": "si"
+  },
+
+  {
+    "torneo": "LIGA",
+    "fecha": 7,
+    "resultado": "1-0",
+    "asistencia": "no"
+  },
+
+  {
+    "torneo": "LIGA",
+    "fecha": 8,
+    "resultado": "1-0",
+    "asistencia": "si"
+  },
+
+  {
+    "torneo": "LIGA",
+    "fecha": 9,
+    "resultado": "1-0",
+    "asistencia": "si"
+  },
+
+  {
+    "torneo": "LIGA",
+    "fecha": 10,
+    "resultado": "1-0",
+    "asistencia": "si"
+  },
+
+  {
+    "torneo": "LIGA",
+    "fecha": 11,
+    "resultado": "1-0",
+    "asistencia": "no"
+  },
+
+  {
+    "torneo": "LIGA",
+    "fecha": 12,
+    "resultado": "1-0",
+    "asistencia": "si"
+  },
+
+  {
+    "torneo": "LIGA",
+    "fecha": 13,
+    "resultado": "1-0",
+    "asistencia": "si"
+  },
+
+  {
+    "torneo": "LIGA",
+    "fecha": 14,
+    "resultado": "1-0",
+    "asistencia": "si"
+  }
+
+  
+]
